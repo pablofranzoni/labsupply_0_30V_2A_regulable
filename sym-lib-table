@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name l200_fuente_cc.pr-rescue)(type Legacy)(uri ${KIPRJMOD}/l200_fuente_cc.pr-rescue.lib)(options "")(descr ""))
+)
